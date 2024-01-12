@@ -1,0 +1,129 @@
+.xmas_tree {
+  background-color: rgba(204, 254, 255, 0.423);
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.xmas_tree h2 {
+  font-size: 3rem;
+  padding: 1rem;
+}
+
+.xmas_tree_buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tree {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+}
+
+.tree button {
+  width: 4rem;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  border: none;
+  font-size: 2rem;
+  color: #4B0082;
+  font-family: 'Russo One', sans-serif;
+}
+
+#xmas_star {
+  width: 7rem;
+  background-color: transparent;
+  background-image: url(/img/xmas/xmasStar.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  filter: drop-shadow(24px 13px 25px #ecc046);
+}
+
+.xmas {
+  background-color: #2e8b56d5;
+}
+
+.xmas_green {
+  background: radial-gradient(circle at 100px 100px, #0b9622, #f7efef);
+  box-shadow: inset 0 0 18px #ffffff,
+    inset 6px 0 18px rgb(202, 238, 130),
+    inset -6px 0 18px #98FB98,
+    inset 6px 0 30px #3CB371,
+    inset -6px 0 30px #2E8B57,
+    0 0 18px rgb(202, 238, 130), -4px 0 18px #98FB98, 4px 0 18px #2E8B57;
+}
+
+.xmas_blue {
+  background: radial-gradient(circle at 100px 100px, #0044cc, #f0f7ff);
+  box-shadow: inset 0 0 18px #f0f7ff,
+    inset 6px 0 18px #87CEFA,
+    inset -6px 0 18px #1E90FF,
+    inset 6px 0 30px #4682B4,
+    inset -6px 0 30px #4169E1,
+    0 0 18px #87CEFA, -4px 0 18px #1E90FF, 4px 0 18px #4169E1;
+}
+
+.xmas_red {
+  background: radial-gradient(circle at 100px 100px, #ff7f00, #f7efef);
+  box-shadow: inset 0 0 18px #ffffff,
+    inset 6px 0 18px #ff7f00,
+    inset -6px 0 18px #e66200,
+    inset 6px 0 30px #cc5900,
+    inset -6px 0 30px #b24c00,
+    0 0 18px #ff7f00, -4px 0 18px #e66200, 4px 0 18px #b24c00;
+
+}
+
+.xmas_cherry {
+  background: radial-gradient(circle at 100px 100px, #ff0040, #f7efef);
+  box-shadow: inset 0 0 18px #ffffff,
+    inset 6px 0 18px #ff0040,
+    inset -6px 0 18px #dc0032,
+    inset 6px 0 30px #b3002d,
+    inset -6px 0 30px #990023,
+    0 0 18px #ff0040, -4px 0 18px #dc0032, 4px 0 18px #990023;
+
+}
+
+.xmas_blue--dark {
+  background: radial-gradient(circle at 100px 100px, #001f3f, #f7efef);
+  box-shadow: inset 0 0 18px #ffffff,
+    inset 6px 0 18px #003366,
+    inset -6px 0 18px #001a33,
+    inset 6px 0 30px #001a33,
+    inset -6px 0 30px #003366,
+    0 0 18px #003366, -4px 0 18px #001a33, 4px 0 18px #001a33;
+}
+
+.xmas_white {
+  background: radial-gradient(circle at 100px 100px, #ffffff, #f7efef);
+  box-shadow: inset 0 0 18px #ffffff,
+    inset 6px 0 18px #e0e0e0,
+    inset -6px 0 18px #d1d1d1,
+    inset 6px 0 30px #c0c0c0,
+    inset -6px 0 30px #a9a9a9,
+    0 0 18px #e0e0e0, -4px 0 18px #d1d1d1, 4px 0 18px #a9a9a9;
+}
+
+#xmas_brown {
+  border-radius: 0%;
+  background: #8b4513c7;
+}
+
+.tree button:hover {
+  transform: scale(2, 2);
+  cursor: pointer;
+}
+
+.xmasbutton--star {
+  width: 100%;
+}

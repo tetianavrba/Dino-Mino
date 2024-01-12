@@ -1,0 +1,17 @@
+.planner_page_action_container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  padding: 0 2rem 0 2rem;
+}
+
+.deleting_div {
+  display: flex;
+  gap: 1rem;
+  ;
+}
+
+.planner_page_action_container img:hover {
+  cursor: pointer;
+  transform: scale(1.5);
+}

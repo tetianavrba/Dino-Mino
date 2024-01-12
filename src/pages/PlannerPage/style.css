@@ -1,0 +1,54 @@
+.container__planner_page {
+  background-color: lavenderblush;
+  min-height: calc(100vh - 3.6rem);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  gap: 5%;
+}
+
+.planner_days {
+  padding: 2rem;
+  padding-top: 1rem;
+  width: 95%;
+  height: 60vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* align-items: space-between; */
+}
+
+.planner_page_action_container img {
+  max-width: 60px;
+}
+
+.one_activity {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.delete_button--button {
+  border: none;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 50%;
+  margin-right: -1rem;
+  margin-top: -3rem;
+  width: 2rem;
+  z-index: 5;
+}
+
+.delete_button--button .delete_button--img {
+  max-width: 2rem;
+  z-index: 5;
+}
+
+@media screen and (max-width: 860px) {
+  .planner_days {
+    flex-wrap: nowrap;
+    max-height: 400px;
+  }
+}

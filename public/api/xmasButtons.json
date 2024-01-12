@@ -1,0 +1,210 @@
+[
+  {
+    "id": 0,
+    "element": "x",
+    "number": "24",
+    "text": "",
+    "additional": ""
+  },
+  {
+    "id": 1,
+    "element": "x",
+    "number": "3",
+    "text": "Mrazík cení zoubky, chtěl by do chaloupky. Co dovede, to my víme. Dovnitř si ho nepustíme. Ať maluje pěkně zvenku bílé květy na okénku.",
+    "name": "Mrazík",
+    "additional": ""
+  },
+  {
+    "id": 2,
+    "element": "x",
+    "number": "21",
+    "text": "Vánoční stromeček zavoněl v pokoji, maminka u stolu jablíčko rozkrojí. A když ho rozkrojí, uvidím hvězdičku, co byla schovaná v červeném jablíčku.",
+    "name": "Vánoční stromeček",
+    "additional": ""
+  },
+  {
+    "id": 3,
+    "element": "0",
+    "number": "",
+    "text": "",
+    "name": "",
+    "additional": ""
+  },
+  {
+    "id": 4,
+    "element": "x",
+    "number": "12",
+    "text": "Sněhulák – to je pán, ze sněhu je udělaný. Sněhulák – to je pán, ze sněhu je udělán.",
+    "name": "Sněhulák",
+    "additional": ""
+  },
+  {
+    "id": 5,
+    "element": "x",
+    "number": "9",
+    "text": "Cukr, mouka, vajíčko, uděláme těstíčko. Na Vánoce to se ví, upečeme cukroví. Plech za plechem, to je jízda. Nejraději mám vosí hnízda.",
+    "name": "Vánoční cukroví",
+    "additional": ""
+  },
+  {
+    "id": 6,
+    "element": "x",
+    "number": "13",
+    "text": "Hvězdička stříbrná dopadla na zem a všechno kolem nás mění se rázem. Hvězdička stříbrná jehličím zavoní, v zavřeném pokoji zvoneček zazvoní. Hvězdička stříbrná na okno zaťuká, jaká má tajemství pro holku, pro kluka? Hvězdička stříbrná nám zase po roce přináší stromeček, přináší Vánoce.",
+    "name": "Hvězdička",
+    "additional": ""
+  },
+  {
+    "id": 7,
+    "element": "0",
+    "number": "",
+    "text": "",
+    "name": "",
+    "additional": ""
+  },
+  {
+    "id": 8,
+    "element": "x",
+    "number": "20",
+    "text": "Usnul vrabec za komínem, tichounce tam dřímá, přilož, Jirko, ještě souček, ať mu není zima.",
+    "name": "Vrabec",
+    "additional": ""
+  },
+  {
+    "id": 9,
+    "element": "x",
+    "number": "18",
+    "text": "Dva kapři se spolu přeli, kdo je lepší v rybníce. Brzy je však přerušila rozumnější bělice. Přestaňte se hádat, braši, jistě každý uvěří, že jste oba stejně dobří na vánoční večeři.",
+    "name": "Kapři",
+    "additional": ""
+  },
+  {
+    "id": 10,
+    "element": "x",
+    "number": "17",
+    "text": "Zima už se vdává, bílé šaty, bílá vlečka. Ženiši jsou černé vrány, svatebčané – vlčí smečka. Datel ťuká telegramy - tečka, čárka, čárka, tečka, a tak pořád dokolečka.",
+    "name": "Zima",
+    "additional": ""
+  },
+  {
+    "id": 11,
+    "element": "x",
+    "number": "23",
+    "text": "A už zase jako vloni, celý dům vanilkou voní. Maminka válí perníčky, v troubě se pečou rohlíčky. Ve vaně kapra už máme, stromek do pokoje dáme. A zítra zase po roce, budou opět Vánoce.",
+    "name": "Štědrý den",
+    "additional": ""
+  },
+  {
+    "id": 12,
+    "element": "x",
+    "number": "10",
+    "text": "Tři bílé koule na sobě a mrkev místo nosu. Uhlíky, knoflíky v zásobě, aby se líbil i kosům.",
+    "name": "Sněhulák",
+    "additional": ""
+  },
+  {
+    "id": 13,
+    "element": "x",
+    "number": "15",
+    "text": "Čertíka se nebojíme, protože my nezlobíme. Když tak jenom trošinku, tatínka a maminku.",
+    "name": "Čertík",
+    "additional": ""
+  },
+  {
+    "id": 14,
+    "element": "x",
+    "number": "22",
+    "text": "Anděl Páně zlámal sáně, svatý David dal je spravit, svatá Eva dala dřeva, svatá Tereza dala železa, svatý Jakub dal je okut, svatý Job na ně hop, svatý Ján vozil se na nich sám.",
+    "name": "Sáně",
+    "additional": ""
+  },
+  {
+    "id": 15,
+    "element": "x",
+    "number": "5",
+    "text": "Kdo to klepe? Bílý pán. Mikuláš dnes přišel k nám. Anděl a čert přišli s ním, zjistit jestli nezlobím.",
+    "name": "Mikuláš",
+    "additional": ""
+  },
+  {
+    "id": 16,
+    "element": "x",
+    "number": "4",
+    "text": "Mikuláši, přijď zítra k nám, písničku ti zazpívám, přines prosím trochu dobrot, můžeš je dát třeba do bot. Dáváš dárky pro radost, pro každého máš jich dost.",
+    "name": "Mikuláš",
+    "additional": ""
+  },
+  {
+    "id": 17,
+    "element": "x",
+    "number": "11",
+    "text": "Bědoval vrabčák na zimu, škoda, že nemám peřinu! Zebou mě nohy, studí mě nos, protože skáču i v zimě bos.",
+    "name": "Vrabec v zimě",
+    "additional": ""
+  },
+  {
+    "id": 18,
+    "element": "x",
+    "number": "7",
+    "text": "Dobře dětem o Vánocích na rybnících, na potocích. Zima jim dá pod nohy kousek zmrzlé oblohy. Pro ně zmrzlo modré nebe. Co na tom, že trochu zebe. Honí se tam vesele malí zkřehlí andělé.",
+    "name": "Na ledě",
+    "additional": ""
+  },
+  {
+    "id": 19,
+    "element": "x",
+    "number": "1",
+    "text": "Čimčarára, čim, čim, čim, že je zima, to já vím. Moje šaty z peříčka, profoukala zimička. Čimčarára, čim, čim, čim, hodné děti poprosím, schovávejte drobečky pro ubohé vrabečky!",
+    "name": "Čimčarára, čim, čim, čim",
+    "additional": ""
+  },
+  {
+    "id": 20,
+    "element": "x",
+    "number": "8",
+    "text": "Přišel kapr do obchodu, chtěl si koupit teplou vodu. Že prý je mu v řece zima, že ho zebe za ušima",
+    "name": "Kapr",
+    "additional": ""
+  },
+  {
+    "id": 21,
+    "element": "x",
+    "number": "16",
+    "text": "Sněhuláci, ti se mají, nekašlou a nekýchají, i když kmotru Meluzínu pozvou ráno na hostinu.",
+    "name": "Sněhuláci",
+    "additional": ""
+  },
+  {
+    "id": 22,
+    "element": "x",
+    "number": "6",
+    "text": "Kde se vzal, tu se vzal, Mikuláš pod okny stál, v ruce velkou berličku, na hlavě měl čepičku, z bílých vousů teplý šál, takhle, děti, vypadal!",
+    "name": "Mikuláš",
+    "additional": ""
+  },
+
+  {
+    "id": 17,
+    "element": "x",
+    "number": "14",
+    "text": "Cupy, dupy, cupy, dupy, zima stojí u chalupy. Vezmeme si rukavice, sáně, boby a čepice, vyběhneme rychle ven, na sněhu se zahřejem.",
+    "name": "Zima",
+    "additional": ""
+  },
+  {
+    "id": 18,
+    "element": "x",
+    "number": "2",
+    "text": "Chumelí se, vítr hvízdá sýkorka se dívá  z hnízda,v zimě není jídla dost,zem je zmrzlá jako kost. Prosím pěkně milá dítka, nasypte mi do krmítka.",
+    "name": "Chumelí se, vítr hvízdá,",
+    "additional": ""
+  },
+  {
+    "id": 19,
+    "element": "x",
+    "number": "19",
+    "text": "S mamkou máme plno práce a ta chutná, ach tak sladce. Mamka spěchá – honem, honem, cukroví už voní domem. Už jsou tady Vánoce, cinky cinky zvonek zvoní. Ve vaně se kapr honí, z mísy voní ovoce... Cinky cinky cinkylinky, už jsou tady Vánoce.",
+    "name": "Příprava cukroví",
+    "additional": ""
+  }
+]

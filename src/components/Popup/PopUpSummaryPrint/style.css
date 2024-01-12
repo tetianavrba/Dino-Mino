@@ -1,0 +1,25 @@
+.sumary-container {
+  text-align: center;
+}
+
+.sumary-container h3 {
+  font-size: 18px;
+  margin: 10px;
+}
+
+.sumary-container h2 {
+  font-size: 20px;
+  margin: 10px;
+}
+
+.sumary-container p {
+  font-size: 18px;
+}
+
+.print-icon {
+  width: 4rem;
+}
+
+.sumary-container audio {
+  margin-top: 10px;
+}

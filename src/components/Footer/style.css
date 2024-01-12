@@ -1,0 +1,16 @@
+footer {
+  padding-right: 1rem;
+  padding-bottom: 0.2rem;
+  height: 1.2rem;
+  background-color: rgb(204, 254, 255);
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -1.0rem;
+}
+
+@media (max-width: 800px) {
+
+  footer p {
+    font-size: 0.8
+  }
+}

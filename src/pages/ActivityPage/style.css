@@ -1,0 +1,133 @@
+.container-activity_page {
+  min-height: calc(100vh - 3.6rem);
+  background-color: #7ddcbe;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+
+.left-column {
+  width: 45%;
+  max-height: 800px;
+}
+
+.summary {
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(204, 254, 255);
+  border-radius: 2rem;
+}
+
+.imgs_activity_page {
+  width: 95%;
+  padding-right: 1rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  /* z-index: 5; */
+  gap: 4rem;
+  /* background-color: rgba(250, 235, 215, 0.623); */
+  border-radius: 2rem;
+
+}
+
+.learning_section {
+  width: 50%;
+  padding-right: 1rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  z-index: 5;
+  background-color: rgba(250, 235, 215, 0.623);
+  border-radius: 2rem;
+  font-size: 2rem;
+}
+
+.dinosaurus_asking {
+  max-width: 8rem;
+  max-height: 8rem;
+}
+
+.imgs_activity_page img {
+  width: 3rem;
+}
+
+.imgs_activity_page img:hover {
+  transform: scale(1.4);
+  cursor: pointer;
+}
+
+.activity-dino_reading {
+  /* margin-top: 20px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .faq--activity_page img {
+  width: 3rem;
+} */
+
+/* .faq--activity_page img:hover {
+  transform: scale(1.4);
+  cursor: pointer;
+} */
+
+.learning_days-months img {
+  width: 3rem;
+}
+
+.learning_days-months img:hover {
+  transform: scale(1.4);
+  cursor: pointer;
+}
+
+.whatDay {
+  width: 3rem;
+}
+
+.whatDay:hover {
+  transform: scale(1.4);
+  cursor: pointer;
+}
+
+.sumary-print {
+  display: flex;
+  justify-content: end;
+}
+
+.sumary-print img {
+  width: 4rem;
+  margin-right: 1rem;
+  margin: 15px;
+}
+
+.sumary-print img:hover {
+  cursor: pointer;
+  transform: scale(1.4);
+
+}
+
+@media (min-height: 1020px) {
+  .container-activity_page {
+    flex-direction: column;
+  }
+
+  .left-column,
+  .summary {
+    width: 80%;
+  }
+
+  .summary {
+    margin-bottom: 40px;
+  }
+
+  .dinosaurus_asking {
+    max-width: 15%;
+  }
+}

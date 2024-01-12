@@ -1,0 +1,18 @@
+.learning_months {
+  width: 100%;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  line-height: 2.5rem;
+
+}
+
+.learning_months_box {
+  width: 50%;
+}
+
+.learning_months_box p {
+  margin: 15px;
+}

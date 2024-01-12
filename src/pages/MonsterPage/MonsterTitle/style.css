@@ -1,0 +1,25 @@
+.monster-container__title {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 7rem;
+}
+
+.monster-container__title img {
+  width: 7rem;
+}
+
+.faq-gamepage {
+  max-width: 60px;
+  max-height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.faq-gamepage:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}

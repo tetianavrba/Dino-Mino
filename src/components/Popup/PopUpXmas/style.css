@@ -1,0 +1,83 @@
+.popup_xmas {
+  font-family: "Andika", "Ruso One";
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.popup_xmas h2 {
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+.popup_xmas_general {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.xmas_dates {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  gap: 3rem;
+}
+
+.coloring_div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.coloring_div a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.rhymes {
+  display: flex;
+  flex-direction: column;
+}
+
+.rhymes h3 {
+  padding-top: 1rem;
+  line-height: 2rem;
+  font-size: 1.8rem;
+}
+
+.audio {
+  display: flex;
+  flex-direction: column;
+}
+
+.coloring_div h2 {
+  max-width: 40%;
+}
+
+.coloring {
+  padding: 1rem;
+  max-width: 100%;
+  border-radius: 2rem;
+  max-height: 30vh;
+}
+
+.audio {
+  width: 100%;
+  padding: 1rem;
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.audio img {
+  width: 60px;
+}

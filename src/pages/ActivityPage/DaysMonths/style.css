@@ -1,0 +1,19 @@
+.container_days_months {
+  width: 100%;
+  border-radius: 2rem;
+  background-color: rgb(246, 202, 249);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.days_months {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 95%;
+  font-family: 'Andika', sans-serif;
+  padding: 0.5rem;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,95 @@
+.container__menu_page {
+  min-height: calc(100vh - 3.6rem);
+  background-image: url(/img/bg1.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-size: 4rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.container__menu_page h1 {
+  text-align: center;
+  width: 100%;
+}
+
+.menu_page-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.dino-mino__menupage {
+  max-width: 300px;
+  margin-left: 5rem;
+  align-self: flex-end;
+}
+
+.faq-menupage {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.faq-menupage:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+.main_menu {
+  max-width: 35rem;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  background-color: rgb(204, 254, 255);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.menu_icon--one-two {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: center;
+  align-content: center;
+}
+
+.main_menu h2 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.faq-menupage {
+  max-width: 150px;
+  max-height: 150px;
+  justify-self: flex-start;
+  align-self: flex-end;
+  margin-bottom: 3rem;
+  margin-left: -5rem;
+}
+
+.main_menu img {
+  max-width: 12rem;
+  padding: 1rem;
+}
+
+.main_menu img:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+@media (max-width: 860px) {
+  .menu_page-content {
+    flex-direction: column;
+
+  }
+
+  .dino-mino__menupage {
+    margin-left: 0;
+    align-self: initial;
+  }
+
+}

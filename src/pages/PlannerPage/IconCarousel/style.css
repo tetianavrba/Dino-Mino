@@ -1,0 +1,26 @@
+.carousel__image {
+  max-width: 6rem;
+}
+
+.carousel {
+  width: 80%;
+  display: flex;
+  gap: 1rem;
+  overflow: scroll;
+  margin-bottom: 2rem;
+}
+
+.carousel button {
+  border: 0;
+  border-radius: 2rem;
+}
+
+.carousel button:nth-child(1) {
+  background-color: rgb(228, 237, 249)
+}
+
+@media print {
+  @page {
+    size: landscape;
+  }
+}

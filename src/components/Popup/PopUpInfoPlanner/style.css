@@ -1,0 +1,22 @@
+.legenda--planner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.legenda--planner img {
+  max-width: 50px;
+  max-height: 50px;
+
+}
+
+.legenda--planner .cross {
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.legenda--planner h2 {
+  font-size: 1.5rem;
+  margin-left: 2rem;
+}

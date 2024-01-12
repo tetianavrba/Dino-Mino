@@ -1,0 +1,21 @@
+.popup_hint {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  line-height: 2rem;
+}
+
+.audio_hint {
+  padding: 0.5rem;
+}
+
+.audio_hint img {
+  max-width: 50px;
+  padding-right: 0.5rem;
+}
+
+.popup_hint h2 {
+  font-size: 2rem;
+}

@@ -1,0 +1,43 @@
+.summary_activity_page {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Andika', sans-serif;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  font-size: 28px;
+}
+
+.summary_activity_page h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.activitiy_page-task h3 {
+  margin-bottom: 5px;
+  /* border-bottom: 2px solid #4B0082; */
+}
+
+.title_summary {
+  margin-top: 1rem;
+  text-align: center;
+  margin: 0;
+}
+
+.summary_activity_page img {
+  max-width: 60px;
+  margin-top: 10px;
+}
+
+.summary_activity_page img:hover {
+  cursor: pointer;
+  transform: scale(1.4);
+}
+
+.activitiy_page-task {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5rem;
+}

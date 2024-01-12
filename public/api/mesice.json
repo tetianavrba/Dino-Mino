@@ -1,0 +1,62 @@
+[
+  {
+    "monthName": "leden",
+    "poem": "Lednu vládne velký mráz, nový rok je tady zas, voda v led se promění, to je mrazu umění.",
+    "audio": "leden"
+  },
+  {
+    "monthName": "únor",
+    "poem": "V únoru je stále zima, venku je to ale prima, sněhuláka staví děti, vločky z nebe dolů letí.",
+    "audio": "unor"
+  },
+  {
+    "monthName": "březen",
+    "poem": "V březnu jaro přichází, sluníčko dřív vychází, vítr často déšť přinese, pozor ať tě neodnese.",
+    "audio": "brezen"
+  },
+  {
+    "monthName": "duben",
+    "poem": "V dubnu počasí se střídá, jednou teplo pak zas zima, slunce svítí, někdy sněží, příroda je krásně svěží.",
+    "audio": "duben"
+  },
+  {
+    "monthName": "květen",
+    "poem": "V květnu kvetou kytičky, zelenají se větvičky, všude spousta mláďátek, od těch našich zvířátek.",
+    "audio": "kveten"
+  },
+  {
+    "monthName": "červen",
+    "poem": "Červen plný slunce je, co nás vždycky zahřeje, dny jsou ze všech nejdelší, venku je to nejlepší.",
+    "audio": "cerven"
+  },
+  {
+    "monthName": "červenec",
+    "poem": "Červenec je měsíc zrání, ovoce je všude k mání, spousta sladkých jablíček, jahůdek a třešniček.",
+    "audio": "cervenec"
+  },
+  {
+    "monthName": "srpen",
+    "poem": "V srpnu už se pole sklízí, všude kolem prach se víří, a když slunce hodně svítí, u vody je lepší býti.",
+    "audio": "srpen"
+  },
+  {
+    "monthName": "září",
+    "poem": "V září podzim přivítáme, houby v lese nasbíráme, a když vítr trochu fouká, draků je plná louka.",
+    "audio": "zari"
+  },
+  {
+    "monthName": "říjen",
+    "poem": "Říjen plný krásy je, na listech barvy čaruje, jeleni se laním dvoří, krásné páry přitom tvoří.",
+    "audio": "rijen"
+  },
+  {
+    "monthName": "listopad",
+    "poem": "V listopadu padá listí, v lese pod nohama šustí, příroda se k spánku chystá, mlha halí všechna místa.",
+    "audio": "listopad"
+  },
+  {
+    "monthName": "prosinec",
+    "poem": "Prosinec to měsíc je, co bílou zimu maluje, dny jsou krátké, noc je tíží, konec roku už se blíží.",
+    "audio": "prosinec"
+  }
+]

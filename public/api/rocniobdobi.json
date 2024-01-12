@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jaro",
+    "poem": "Sluníčko nám vykukuje, příchod jara oznamuje. Už tu bude brzo s námi, začíná to sněženkami. Přidají se bledulky, pro kluky i pro holky. Pojďte vyrazíme ven, přivítat tu jarní den.",
+    "audio": "jaro"
+  },
+  {
+    "name": "Léto",
+    "poem": "V létě chodím plavat rád, já jsem s vodou kamarád. Parkrát sjedu tobogánem, já jsem v akvaparku pánem. Zakončím to zmrzlinou s celou svojí rodinou.",
+    "audio": "leto"
+  },
+  {
+    "name": "Podzim",
+    "poem": "Krásné jsou ty lístky stromů, podzim jim vezme zelenou, když snášejí se k zemi dolů, mají barvu červenou.",
+    "audio": "podzim"
+  },
+  {
+    "name": "Zima",
+    "poem": "Když nám v zimě na kopci napadne čerstvý sníh, sjíždíme ho na pekáčích, nebo na saních.",
+    "audio": "zima"
+  }
+]

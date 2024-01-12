@@ -1,0 +1,81 @@
+.season-box {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.447);
+  border-radius: 1rem;
+}
+
+.season-box_two {
+  margin: 5px;
+  background-color: rgba(255, 255, 255, 0.447);
+  border-radius: 1rem;
+}
+
+.season-box img {
+  width: 56%;
+
+}
+
+.season-title {
+  border-radius: 10px;
+  padding: 5px 0 5px 0;
+  font-size: 1.5rem;
+}
+
+.winter {
+  background-color: #87CEEB;
+}
+
+.spring {
+  background-color: #90EE90;
+}
+
+.summer {
+  background-color: #ffd700;
+}
+
+.autumn {
+  background-color: #ffa500;
+}
+
+.season-box_two:hover {
+  font-size: 18px;
+  border: 2px solid silver;
+  cursor: pointer;
+}
+
+.wrong-answer__season {
+  animation: horizontal-shaking 300ms 5;
+  background-color: #A8A8A8;
+  color: #000;
+  border-radius: 10px;
+}
+
+@keyframes horizontal-shaking {
+  0% {
+    transform: translateX(0)
+  }
+
+  25% {
+    transform: translateX(5px)
+  }
+
+  50% {
+    transform: translateX(-5px)
+  }
+
+  75% {
+    transform: translateX(5px)
+  }
+
+  100% {
+    transform: translateX(0)
+  }
+}
+
+.right-answer__season {
+  background-color: #00BFFF;
+  color: #fff;
+  border-radius: 10px;
+}

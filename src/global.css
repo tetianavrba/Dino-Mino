@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Russo+One&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  /* min-height: 100vh; */
+  min-height: 100svh;
+  font-family: 'Russo One', sans-serif;
+  color: #4B0082;
+}
+
+.app {
+  height: 100%;
+}
+
+h1 {
+  font-size: 4rem;
+  text-shadow: 3px 3px 5px rgba(175, 117, 216, 0.922);
+}

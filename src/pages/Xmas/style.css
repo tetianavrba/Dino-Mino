@@ -1,0 +1,49 @@
+.xmas_tree-container {
+  background-image: url(/img/bgWinter.png);
+  margin: 0;
+  min-height: calc(100vh - 3.6rem);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  gap: 15%;
+}
+
+.advent_calendar_dino {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.advent_calendar_dino img {
+  margin-bottom: 10rem;
+  margin-left: 10rem;
+  max-width: 300px;
+  transform: scaleX(-1);
+
+}
+
+/* 
+.christmas_tree {
+  background-image: url(/img/xmas/treeNoDec.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: grid;
+  grid-template-columns: repeat(14, 1fr);
+  column-gap: 0;
+  row-gap: 0;
+  justify-self: center;
+} */
+
+@media (max-width: 1024px) {
+
+  .advent_calendar img,
+  .advent_calendar {
+    display: none;
+  }
+
+  .xmas_tree-container {
+    justify-content: center;
+    align-items: flex-end;
+    gap: 0;
+  }
+}

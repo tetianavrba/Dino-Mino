@@ -1,0 +1,49 @@
+.day_planner {
+
+  width: 100%;
+}
+
+.planner_one_day {
+  padding-top: 0.5rem;
+  border-radius: 1rem;
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.deleting_button--planner {
+  border: none;
+  background-color: transparent;
+}
+
+.active-day {
+  background-color: #54d9fe;
+}
+
+.planner_one_day h2 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.adding_button {
+  background-color: aquamarine;
+  border-radius: 1rem;
+  border: none;
+}
+
+.adding_button:hover {
+  cursor: pointer;
+  transform: scale(1.5);
+}
+
+.adding_button img {
+  max-width: 64px;
+}
+
+@media screen and (max-width: 860px) {
+  .planner_one_day h2 {
+    font-size: 1.5rem;
+  }
+}

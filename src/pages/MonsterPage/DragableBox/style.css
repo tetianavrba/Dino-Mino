@@ -1,0 +1,51 @@
+.dragable-box {
+  display: inline-block;
+}
+
+.eyes {
+  position: relative;
+  height: 50px;
+  z-index: 10;
+}
+
+.holy {
+  position: relative;
+  height: 35px;
+  z-index: 10;
+}
+
+.leg {
+  position: relative;
+  height: 90px;
+  z-index: 9;
+}
+
+.wing {
+  position: relative;
+  height: 80px;
+  z-index: 5;
+}
+
+.arm {
+  position: relative;
+  height: 80px;
+  z-index: 9;
+}
+
+.horn {
+  position: relative;
+  height: 50px;
+  z-index: 10;
+}
+
+.tail {
+  position: relative;
+  height: 70px;
+  z-index: 5;
+}
+
+.monster_body {
+  position: relative;
+  height: 150px;
+  z-index: 6;
+}

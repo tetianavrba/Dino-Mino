@@ -1,0 +1,14 @@
+.activities {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.activities img {
+  max-width: 64px;
+}
+
+.delete_button--img:hover {
+  cursor: pointer;
+  transform: scale(1.5);
+}

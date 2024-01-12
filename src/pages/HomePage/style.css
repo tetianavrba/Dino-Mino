@@ -1,0 +1,133 @@
+.container-main__page {
+  height: 100dvh;
+  background-image: url(/img/bg1.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main__page {
+  min-height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 1rem;
+}
+
+.title {
+  width: 100%;
+  font-size: 4rem;
+  padding-top: 1rem;
+  text-align: center;
+}
+
+input {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  max-width: 80%;
+  color: #4B0082;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 30px;
+  font-size: 2rem;
+  color: #4B0082;
+  text-align: center;
+}
+
+.question-name {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.question-name {
+  font-size: 2rem;
+  margin: 20px;
+}
+
+.dino-foot {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10rem;
+  align-items: center;
+}
+
+.dino-mino__main-page {
+  max-width: 20rem;
+  justify-self: flex-end;
+  align-self: flex-end;
+}
+
+.foot-print__main-page {
+  width: 15rem;
+}
+
+.foot-print__main-page:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.foot-print__main-page {
+  margin: 70px;
+}
+
+.how_to--home_page {
+  background-color: rgba(187, 223, 255, 0.765);
+  border-radius: 3rem;
+  position: absolute;
+  bottom: 2rem;
+  left: 1rem;
+  padding: 1rem;
+  text-align: right;
+}
+
+.how_to--home_page div {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  gap: 1rem;
+}
+
+.how_to--home_page .sweep-HomePage {
+  border-radius: 3px;
+  max-width: 70px;
+}
+
+.sweep-HomePage:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+.faq-HomePage {
+  border-radius: 3px;
+  max-width: 70px;
+  padding-top: 5px;
+}
+
+.faq-HomePage:hover {
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+@media (max-width: 860px) {
+  .dino-foot {
+    flex-direction: column;
+  }
+
+  .foot-print__main-page {
+    margin: 0 0 30px;
+  }
+
+  .dino-mino__main-page {
+    align-self: initial;
+  }
+
+}

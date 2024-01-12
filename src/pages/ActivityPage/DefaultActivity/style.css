@@ -1,0 +1,65 @@
+/* .days_months {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 95%;
+  font-family: 'Andika', sans-serif;
+  padding: 0.5rem;
+
+  justify-content: center;
+  align-items: center;
+} */
+.activity-box {
+  display: flex;
+}
+
+/* .activity-box .dinosaurus_asking {
+  left: 0;
+} */
+
+.default_activity h2 {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+}
+
+.default_activity {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  font-family: "Andika";
+}
+
+.default_activity h1 {
+  margin-top: 1rem;
+  font-size: 2.5rem;
+}
+
+.default_activity img {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  max-width: 70px;
+}
+
+.default_activity img:hover {
+  cursor: pointer;
+  transform: scale(1.4);
+}
+
+.learning_options {
+  display: flex;
+  gap: 1rem;
+  width: 90%;
+}
+
+.learning_options div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 35%;
+}
+
+.learning_options div:nth-child(3) {
+  width: 60%;
+}
